@@ -1,0 +1,3 @@
+-Fill in random text for GitHub screenshot.
+-Think of things to add here.
+-Just modify this file in Vim and Conky will update.

@@ -8,6 +8,10 @@ Core system metrics are displayed in the first section, The second section is de
 
 The applet also takes advantage of a small python script that I wrote that queries the Gmail API for the current number of unread emails on your account. To make this script work, simply insert your email address and password in the script where you see the `user='email'` and `passwd='password'` fields. 
 
+The conky.conf file should be dropped wherever the Conky package looks for the config file on your OS. (Typicall /etc/conky/conky.conf)
+
+The Gmail.py and Todo.txt files should be located in a place where the user running Conky has permissions to read.
+
 ![Alt text](https://raw.githubusercontent.com/zimmertr/Conky/master/screenshot.png "Screenshot of Conky.")
 
 
