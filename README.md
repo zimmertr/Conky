@@ -6,6 +6,8 @@ This is my Conky configuration file that I used for years to monitor my Linux de
 
 Core system metrics are displayed in the first section, The second section is devoted to a To Do list which is simply the results of a text file and $cat. The third section is devoted to displaying your top running processes. 
 
+The applet also takes advantage of a small python script that I wrote that queries the Gmail API for the current number of unread emails on your account. To make this script work, simply insert your email address and password in the script where you see the 'user='email'' and 'passwd='password'' fields. 
+
 ![Alt text](https://raw.githubusercontent.com/zimmertr/Conky/master/screenshot.png "Screenshot of Conky.")
 
 
