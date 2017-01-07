@@ -1,13 +1,17 @@
 # Conky
 
-This is my Conky configuration file that I used for years to monitor my Linux desktop before I switched to I3WM and stopped using Conky. 
+## Summary  
+
+This is my Conky configuration file that I used for years to monitor my Linux desktop before I switched to I3WM and stopped using Conky. The monitor applet shows a lot of useful information pertaining to your system in an easy-to-read, color coded, and rapidly upated way.
+
+Core system metrics are displayed in the first section, The second section is devoted to a To Do list which is simply the results of a text file and $cat. The third section is devoted to displaying your top running processes. 
 
 ![Alt text](https://raw.githubusercontent.com/zimmertr/Conky/master/screenshot.png "Screenshot of Conky.")
 
 
-This Conky configuration displays the following metrics:
+##Detailed breakdown of all Metrics:
 
-##System Information  
+###System Information  
 - CPU  
     Usage in GHz  
     Usage in percent  
@@ -41,12 +45,12 @@ This Conky configuration displays the following metrics:
     Current weather condition  
 
 
-##To Do List  
+###To Do List  
 
 First 10 lines of a text file stored on your hard disk. Updates every 1 second.  
 
 
-##Running Processes  
+###Running Processes  
 
 - Number of current running Processes  
 
