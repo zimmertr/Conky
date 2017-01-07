@@ -2,7 +2,7 @@
 
 This is my Conky configuration file that I used for years to monitor my Linux desktop before I switched to I3WM and stopped using Conky. 
 
-![Alt text](https://raw.githubusercontent.com/zimmertr/Conky/screenshot.png "Screenshot of Conky.")
+![Alt text](https://raw.githubusercontent.com/zimmertr/Conky/master/screenshot.png "Screenshot of Conky.")
 
 
 This Conky configuration displays the following metrics:
