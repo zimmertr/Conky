@@ -12,7 +12,7 @@ The conky.conf file should be dropped wherever the Conky package looks for the c
 
 The Gmail.py and Todo.txt files should be located in a place where the user running Conky has permissions to read.
 
-![Alt text](https://raw.githubusercontent.com/zimmertr/Conky/master/screenshot.png "Screenshot of Conky.")
+![Alt text](https://raw.githubusercontent.com/zimmertr/Conky-Configuration/master/screenshot.png "Screenshot of Conky.")
 
 
 ##Detailed breakdown of all Metrics:
