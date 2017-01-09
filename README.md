@@ -2,7 +2,7 @@
 
 ## Summary  
 
-This is my Conky configuration file that I used for years to monitor my Linux desktop before I switched to I3WM and stopped using Conky. The monitor applet shows a lot of useful information pertaining to your system in an easy-to-read, color coded, and rapidly upated way.
+This is a Conky configuration file that was used for years to monitor my Linux desktop before I switched to i3wm and stopped using Conky. The monitor applet shows a lot of useful information pertaining to your system in an easy-to-read, color coded, and rapidly upated way.
 
 Core system metrics are displayed in the first section, The second section is devoted to a To Do list which is simply the results of a text file and $cat. The third section is devoted to displaying your top running processes. 
 
