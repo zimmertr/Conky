@@ -18,52 +18,43 @@ The Gmail.py and Todo.txt files should be located in a place where the user runn
 ##Detailed breakdown of all Metrics:
 
 ###System Information  
+```
 - CPU  
     Usage in GHz  
     Usage in percent  
     Usage as a graph  
-
 - Memory  
     Usage in MiB  
     Usage in percent  
     Usage as a graph  
-
 - HDD  
     Usage in GiB  
     Usage in Percent  
     Usage as a graph  
-
 - Uptime  
     Time since last boot as Hours, Minutes, and Seconds  
-
 - Network
     Current upload speed in b, kb, and mb  
     Current download speed in b, kb, and mb  
-
 - Updates  
     Number of current updates available for your OS  
-
 - Emails  
     Number of unread emails in your GMail account  
-
 - Weather  
     Outside temperature in F  
     Current weather condition  
-
+```
 
 ###To Do List  
-
+```
 First 10 lines of a text file stored on your hard disk. Updates every 1 second.  
-
+```
 
 ###Running Processes  
-
+```
 - Number of current running Processes  
-
 - Top 10 processes in order of CPU Usage  
-
 - Process ID for each process  
-
 - CPU Usage for each process  
-
 - Memory usage for each process  
+```
