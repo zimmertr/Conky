@@ -15,9 +15,9 @@ The Gmail.py and Todo.txt files should be located in a place where the user runn
 ![Alt text](https://raw.githubusercontent.com/zimmertr/Conky-Configuration/master/screenshot.png "Screenshot of Conky.")
 
 
-##Detailed breakdown of all Metrics:
+## Detailed breakdown of all Metrics:
 
-###System Information  
+### System Information  
 ```
 - CPU  
     Usage in GHz  
@@ -45,12 +45,12 @@ The Gmail.py and Todo.txt files should be located in a place where the user runn
     Current weather condition  
 ```
 
-###To Do List  
+### To Do List  
 ```
 First 10 lines of a text file stored on your hard disk. Updates every 1 second.  
 ```
 
-###Running Processes  
+### Running Processes  
 ```
 - Number of current running Processes  
 - Top 10 processes in order of CPU Usage  
